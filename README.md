@@ -5,7 +5,7 @@ Datascience Repo hosts various datascience projects done by Pallav Bakshi. The r
 R Notebooks -  
 1.A Decision Trees in R  
 1.B Bagged Trees in R  
-1.C Random Forest in R
+1.C Random Forest in R  
 1.D Boosting in R (GBM)  
   
 2. Finance  
